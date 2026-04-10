@@ -1,0 +1,37 @@
+
+body {
+    background-image: url(img/fundo.png);
+    width: 900px;
+}
+
+
+a {
+    text-decoration: none;
+    color: purple;
+   
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+}
+
+#menu {
+    margin: auto;
+    padding: 1rem;
+   background-color:  #c5c5b2;
+
+}
+
+#conteudo {
+    background-color: #e8e8d9;
+    padding: 1rem;
+}
+h1 {
+    color: #c5c5b2;
+    font-size: 20px;
+}
+
+#rodape {
+    text-align: center;
+}
