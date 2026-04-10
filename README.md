@@ -16,7 +16,7 @@ Este projeto foi criado com o objetivo de treinar conceitos básicos de desenvol
 - Contato
 
 ## 📷 Preview
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f3bda3b9-a73a-4927-bc7f-825b070fe649" />
+
 
 
 ## 📁 Como executar
